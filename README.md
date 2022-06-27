@@ -13,7 +13,7 @@ This starter template contains:
 - 📜 [Commit Lint](https://github.com/conventional-changelog/commitlint) — Make sure the commit message follows the conventional commit
 - ⚙️ [Github Actions](https://github.com/features/actions) — Check your code on push & pull-request
 - 🤖 [Dependabot](https://github.com/dependabot) — Create pull-request to update your dependencies
-- 🔗 Absolute Import — Import modules using `@/` prefix
+- 🔗 [Absolute Import](./tsconfig.json) — Import modules using `@/` prefix
 - 💟 [React Icons](https://react-icons.github.io/react-icons/) — Include popular icons in your React projects easily
 
 ## Getting Started
