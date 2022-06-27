@@ -15,6 +15,7 @@ This starter template contains:
 - 🤖 [Dependabot](https://github.com/dependabot) — Create pull-request to update your dependencies
 - 🔗 [Absolute Import](./tsconfig.json) — Import modules using `@/` prefix
 - 💟 [React Icons](https://react-icons.github.io/react-icons/) — Include popular icons in your React projects easily
+- 🌟 [React Power-Ups](https://github.com/afiiif/react-power-ups) — Collection of React hooks to speed-up your app development
 
 ## Getting Started
 
