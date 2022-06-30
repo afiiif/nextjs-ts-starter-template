@@ -2814,10 +2814,10 @@ react-is@^16.13.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-power-ups@^1.6.1:
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/react-power-ups/-/react-power-ups-1.6.1.tgz#c40165e19b022ccafccb4ed616c9696688750c92"
-  integrity sha512-E8IHSy818pK0tc+4kXAmEPaRpm7xx32Onih+JpRqy4NkY6RM1ObgU967ob/cdOGMh/mrG4RMfXrWYp3GiHCdeg==
+react-power-ups@^1.6.2:
+  version "1.6.2"
+  resolved "https://registry.yarnpkg.com/react-power-ups/-/react-power-ups-1.6.2.tgz#20bc0d0d3926eec9348db9c87e2e2eec6879eea4"
+  integrity sha512-uB6k3+30sVimFr9V8ylVDgj5EYUI7kLeHzUbf/EfiCe5n7UwGZqm+MB1s7/TUpZLMgozZO4ioSiCCshl9D7gdw==
 
 react@18.2.0:
   version "18.2.0"
