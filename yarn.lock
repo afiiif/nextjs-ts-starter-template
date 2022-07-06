@@ -1290,10 +1290,10 @@ eslint-config-prettier@^8.5.0:
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.5.0.tgz#5a81680ec934beca02c7b1a61cf8ca34b66feab1"
   integrity sha512-obmWKLUNCnhtQRKc+tmnYuQl0pFU1ibYJQ5BGhTVB08bHe9wC8qUeG7c08dj9XX+AuPj1YSGSQIHl1pnDHZR0Q==
 
-eslint-config-react-moonstone@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/eslint-config-react-moonstone/-/eslint-config-react-moonstone-1.2.1.tgz#3984193e1e270b8d46fe914205d9b82ea5d71a07"
-  integrity sha512-mGUSM16453SznOsGbzBexQUYOugQYnVjmoB6v+98+tNVXL9CBjyzIrHm/webFqTTTDZHysLgw82pFih2FCxoqg==
+eslint-config-react-moonstone@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-react-moonstone/-/eslint-config-react-moonstone-1.2.0.tgz#04060fa4a8b419ee5854c84ab7f8d8d826624da6"
+  integrity sha512-qovnkjA1gs0fJMDMeqPm2troIkSXG85nS98yRTLCNy6+c9U24iG4lr4AbvCbttB4bmsuiJ27ybIFoM4k4AqCaA==
   dependencies:
     eslint-config-airbnb "^19.0.4"
     eslint-config-airbnb-typescript "^17.0.0"

@@ -34,7 +34,7 @@
     "autoprefixer": "^10.4.7",
     "eslint": "^8.19.0",
     "eslint-config-next": "^12.2.0",
-    "eslint-config-react-moonstone": "^1.2.1",
+    "eslint-config-react-moonstone": "^1.2.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
     "postcss": "^8.4.14",
