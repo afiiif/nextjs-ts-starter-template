@@ -2938,10 +2938,10 @@ react-is@^16.13.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-power-ups@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/react-power-ups/-/react-power-ups-2.0.1.tgz#4528bff84725e216104cef0a6166a32910b283aa"
-  integrity sha512-cxiOvogf56SNJv9dpP2VI/Gz/yN5HpiuFQLmr0J/U99ICwveOzmSWS+/Nm8Y2OSzfQoymfM/WGtZjFmBHjeqWg==
+react-power-ups@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/react-power-ups/-/react-power-ups-2.0.2.tgz#3df402b6a5739ddcaca342f4ba37d156ff6bab9b"
+  integrity sha512-s6504EHDN/pI7FxroolYFHowI1jMupf7VGvoRFB4rHh6FeFZ+cAHVeXn7v0akSUHxwQ1dxe/badwi04z21gaAg==
 
 react@18.2.0:
   version "18.2.0"
