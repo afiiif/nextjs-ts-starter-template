@@ -3,7 +3,10 @@ updates:
   - package-ecosystem: 'npm'
     directory: '/'
     schedule:
-      interval: 'weekly'
+      interval: 'monthly'
     labels:
       - 'dependencies'
       - 'automerge'
+    ignore:
+      - dependency-name: '*'
+        update-types: ['version-update:semver-major']
