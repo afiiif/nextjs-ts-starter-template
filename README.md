@@ -1,3 +1,8 @@
+> ## ⚠️ Warning ⚠️
+> 
+> This repo will no longer be maintained.  
+> It is recommended to use https://github.com/afiiif/nextjs-starter-template instead.
+
 # Next.js [TypeScript] + Tailwind CSS Starter Template
 
 ## Features
